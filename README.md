@@ -1,5 +1,9 @@
 # Genjutsu Skill
 
+[![Offline checks](https://github.com/SaeedAngiz1/Genjutsu-Skill/actions/workflows/checks.yml/badge.svg)](https://github.com/SaeedAngiz1/Genjutsu-Skill/actions/workflows/checks.yml)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/SaeedAngiz1/Genjutsu-Skill)](https://github.com/SaeedAngiz1/Genjutsu-Skill/releases/latest)
+
 **Turn one video request into a complete AI character replacement workflow.**
 
 Give Claude Code or Codex your clip, character reference, creative direction and budget. Genjutsu guides the agent through preparation, visual review, a paid draft, recovery and final export with the original soundtrack.
@@ -25,7 +29,7 @@ One request can cover the whole job. It still needs working accounts, a usable s
 
 ## Install the skill
 
-Download this repository as a ZIP, extract it, and open a terminal in its root. The repository root is the skill package.
+Download the [v0.1.0 skill ZIP](https://github.com/SaeedAngiz1/Genjutsu-Skill/releases/download/v0.1.0/genjutsu-skill-v0.1.0.zip), extract it, and open a terminal in its root. The repository root is the skill package. You can also clone [this repository](https://github.com/SaeedAngiz1/Genjutsu-Skill).
 
 ```bash
 python3 scripts/install.py

@@ -1,6 +1,6 @@
 # Launch copy
 
-Use these drafts after creating the GitHub repository. Replace the repository link with your real URL. Attach a demo made with your own media; the included social preview is a project graphic, not evidence of a generated result.
+Repository: [SaeedAngiz1/Genjutsu-Skill](https://github.com/SaeedAngiz1/Genjutsu-Skill). Use these drafts when sharing the release. Attach a demo made with your own media; the included social preview is a project graphic, not evidence of a generated result.
 
 ## GitHub description
 
@@ -8,7 +8,7 @@ Genjutsu for Claude Code and Codex: one-request AI character replacement with de
 
 ## Suggested topics
 
-`claude-code` `claude-skills` `codex` `agent-skills` `ai-video` `video-to-video` `character-replacement` `face-mesh` `python` `genjutsu`
+`claude-code` `claude-code-skills` `agent-skills` `codex` `ai-video` `video-editing` `video-to-video` `character-replacement` `seedance` `face-mesh` `sam3` `python` `genjutsu`
 
 ## Release title
 
@@ -30,7 +30,11 @@ I packaged Genjutsu as a Claude Code + Codex skill: depth or face-mesh guidance 
 
 Open source. Bring your own clips and paid Replicate/Enhancor accounts.
 
-Demo + code: [add your real repository URL]
+Code + install: https://github.com/SaeedAngiz1/Genjutsu-Skill
+
+Release: https://github.com/SaeedAngiz1/Genjutsu-Skill/releases/tag/v0.1.0
+
+Suggested social hashtags: #ClaudeCode #AgentSkills #AIVideo. Use relevant tags sparingly; the actual result is the main hook.
 
 ## Demo caption
 

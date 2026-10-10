@@ -27,7 +27,7 @@ All three Bash launch/setup scripts passed Git Bash `bash -n` syntax checks. The
 
 Additional review led to local Host/Origin guards, early video-reference duration checks and a free-threaded-Python readiness gate; their focused regressions passed in the final combined release run.
 
-An independent skill trial installed a temporary copy, validated actual local H.264/AAC media and PNG/video reference decoding, rejected a missing-audio source, and confirmed the installed command/discovery guidance. Runtime imports passed with regular CPython. Actual readiness was blocked by missing Rubber Band, optional mesh worker/model and callback/account configuration. Compatible five-second source/video-reference pairing passed; incompatible two-second pairing stopped before processing. Actual free-threaded Python now fails readiness cleanly before native imports. Compatible five-second source/video-reference pairing passed; incompatible two-second pairing stopped before processing. Actual free-threaded Python now fails readiness cleanly before native imports. No remote accounts were exercised.
+An independent skill trial installed a temporary copy, validated actual local H.264/AAC media and PNG/video reference decoding, rejected a missing-audio source, and confirmed the installed command/discovery guidance. Runtime imports passed with regular CPython. Actual readiness was blocked by missing Rubber Band, optional mesh worker/model and callback/account configuration. Compatible five-second source/video-reference pairing passed; incompatible two-second pairing stopped before processing. Actual free-threaded Python now fails readiness cleanly before native imports. No remote accounts were exercised.
 
 ## Reproduce
 
