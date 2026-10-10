@@ -40,7 +40,7 @@ python scripts/run_tests.py
 
 The first command checks public resources, Python syntax and local links without loading the runtime. The second runs both test suites with outbound connections disabled. `--scratch PATH` chooses the fixture directory; `--report PATH` saves measured JSON results. For existing isolated dependencies, `--dependencies PATH` loads them without installing globally.
 
-Main top-level packages are exactly pinned by upstream. Transitive dependency resolution is not locked for every target OS, so a fresh installation may resolve newer compatible dependencies. GitHub Actions is configured for Windows and Ubuntu; that cloud CI has not run before this local release is uploaded.
+Main top-level packages are exactly pinned by upstream. Transitive dependency resolution is not locked for every target OS, so a fresh installation may resolve newer compatible dependencies. [GitHub Actions run 38072157410](https://github.com/SaeedAngiz1/Genjutsu-Skill/actions/runs/38072157410) passed package validation and all 86 offline tests on both Windows and Ubuntu with Python 3.13, zero failures/errors/skips, on 2026-10-10. That run tested code commit `bfc3d8bab8cb3b9c5bb8a91c19f3d2fe4a1036ed`; the follow-up documentation commit records this evidence without changing runtime code. This CI does not install the complete video runtime or exercise hosted inference.
 
 ## Remaining acceptance
 

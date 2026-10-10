@@ -36,6 +36,15 @@ Release: https://github.com/SaeedAngiz1/Genjutsu-Skill/releases/tag/v0.1.0
 
 Suggested social hashtags: #ClaudeCode #AgentSkills #AIVideo. Use relevant tags sparingly; the actual result is the main hook.
 
+## Short post for X
+
+Your performance. A new character.
+
+Genjutsu Skill brings AI character replacement to Claude Code + Codex: depth/face-mesh guidance, draft review, resumable jobs and original-audio export.
+
+MIT code; paid cloud APIs.
+https://github.com/SaeedAngiz1/Genjutsu-Skill
+
 ## Demo caption
 
 Source → prepared guidance → reviewed draft → original-audio export.
